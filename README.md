@@ -1,2 +1,2 @@
-# Pattern-printing
-Code of patterns in java.
+# Nested Loops
+Pattern-printing codes
